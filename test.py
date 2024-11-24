@@ -5,7 +5,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 def main():
-    input_folder = r'C:\Apache24\htdocs\python39\練習\files_input'
+    input_folder = r'C:\test\files_input'
     output_file_summary = r'summary.csv'
     output_file_slow = r'slow.csv'
     output_file_unique = r'unique.csv'
